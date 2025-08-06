@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&family=Sorts+Mill+Goudy:ital@0;1&display=swap");
+
+body {
+  background-color: rgb(241, 235, 226);
+}
+
+h1 {
+  color: rgb(55, 55, 55);
+  margin-left: 20px;
+  font-family: "Times New Roman", serif;
+  font-size: 40px; /* Sets base font size for the body */
+}
+
+h2 {
+  color: rgb(55, 55, 55);
+  margin-left: 20px;
+  font-size: 20px; /* Sets base font size for the body */
+}
